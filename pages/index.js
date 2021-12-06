@@ -66,7 +66,7 @@ function PageHome(props) {
                 color="inherit"
                 gutterBottom
               >
-                {'react-swipeable-views'}
+                {'@gromy/react-swipeable-views'}
               </Typography>
               <Typography
                 variant="headline"

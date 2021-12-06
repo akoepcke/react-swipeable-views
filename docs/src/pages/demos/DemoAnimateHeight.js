@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import SwipeableViews, { SwipeableViewsContext } from 'react-swipeable-views';
+import SwipeableViews, { SwipeableViewsContext } from '@gromy/react-swipeable-views';
 
 const styles = {
   slide: {

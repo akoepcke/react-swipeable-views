@@ -24,5 +24,6 @@
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"
-  }
+  },
+  "gitHead": "25278c95a166b0cfda719a1be0c083e39d83655a"
 }

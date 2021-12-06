@@ -1,6 +1,6 @@
 import React from 'react';
-import SwipeableViews from 'react-swipeable-views';
-import { autoPlay } from 'react-swipeable-views-utils';
+import SwipeableViews from '@gromy/react-swipeable-views';
+import { autoPlay } from '@gromy/react-swipeable-views-utils';
 import Pagination from 'docs/src/modules/components/Pagination';
 
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);

@@ -10,7 +10,7 @@
 
 ```jsx
 import React from 'react';
-import SwipeableViews from 'react-swipeable-views';
+import SwipeableViews from '@gromy/react-swipeable-views';
 
 const styles = {
   slide: {
@@ -122,8 +122,8 @@ Let's see an example with the browser:
 
 ```jsx
 import React from 'react';
-import SwipeableViews from 'react-swipeable-views';
-import { virtualize } from 'react-swipeable-views-utils';
+import SwipeableViews from '@gromy/react-swipeable-views';
+import { virtualize } from '@gromy/react-swipeable-views-utils';
 
 const VirtualizeSwipeableViews = virtualize(SwipeableViews);
 
@@ -149,8 +149,8 @@ Let's see an example with the browser:
 
 ```jsx
 import React from 'react';
-import SwipeableViews from 'react-swipeable-views';
-import { autoPlay } from 'react-swipeable-views-utils';
+import SwipeableViews from '@gromy/react-swipeable-views';
+import { autoPlay } from '@gromy/react-swipeable-views-utils';
 
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
@@ -173,8 +173,8 @@ Let's see an example with the browser:
 
 ```jsx
 import React from 'react';
-import SwipeableViews from 'react-swipeable-views';
-import { bindKeyboard } from 'react-swipeable-views-utils';
+import SwipeableViews from '@gromy/react-swipeable-views';
+import { bindKeyboard } from '@gromy/react-swipeable-views-utils';
 
 const BindKeyboardSwipeableViews = bindKeyboard(SwipeableViews);
 

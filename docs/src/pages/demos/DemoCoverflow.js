@@ -1,5 +1,5 @@
 import React from 'react';
-import SwipeableViews from 'react-swipeable-views';
+import SwipeableViews from '@gromy/react-swipeable-views';
 import Animated from 'animated/lib/targets/react-dom';
 
 const styles = {

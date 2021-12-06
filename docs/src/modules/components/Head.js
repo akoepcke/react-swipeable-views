@@ -38,7 +38,7 @@ Head.propTypes = {
 
 Head.defaultProps = {
   description: 'A React component for swipeable views.',
-  title: 'react-swipeable-views',
+  title: '@gromy/react-swipeable-views',
 };
 
 export default Head;

@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { View } from 'react-native';
 import SwipeableViews from '../../packages/react-swipeable-views-native/src';
-import { virtualize, autoPlay } from 'react-swipeable-views-utils';
-import { mod } from 'react-swipeable-views-core';
+import { virtualize, autoPlay } from '@gromy/react-swipeable-views-utils';
+import { mod } from '@gromy/react-swipeable-views-core';
 import { Title } from 'react-native-paper';
 import styles from '../styles';
 

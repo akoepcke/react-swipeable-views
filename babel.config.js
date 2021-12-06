@@ -48,9 +48,9 @@ module.exports = {
             root: ['./'],
             alias: {
               pages: './pages',
-              'react-swipeable-views': './packages/react-swipeable-views/src',
-              'react-swipeable-views-utils': './packages/react-swipeable-views-utils/src',
-              'react-swipeable-views-core': './packages/react-swipeable-views-core/src',
+              '@gromy/react-swipeable-views': './packages/react-swipeable-views/src',
+              '@gromy/react-swipeable-views-utils': './packages/react-swipeable-views-utils/src',
+              '@gromy/react-swipeable-views-core': './packages/react-swipeable-views-core/src',
               docs: './docs',
             },
           },
@@ -65,9 +65,9 @@ module.exports = {
           'babel-plugin-module-resolver',
           {
             alias: {
-              'react-swipeable-views': './packages/react-swipeable-views/src',
-              'react-swipeable-views-core': './packages/react-swipeable-views-core/src',
-              'react-swipeable-views-utils': './packages/react-swipeable-views-utils/src',
+              '@gromy/react-swipeable-views': './packages/react-swipeable-views/src',
+              '@gromy/react-swipeable-views-core': './packages/react-swipeable-views-core/src',
+              '@gromy/react-swipeable-views-utils': './packages/react-swipeable-views-utils/src',
               docs: './docs',
               pages: './pages',
             },
@@ -82,9 +82,9 @@ module.exports = {
           'babel-plugin-module-resolver',
           {
             alias: {
-              'react-swipeable-views': './packages/react-swipeable-views/src',
-              'react-swipeable-views-core': './packages/react-swipeable-views-core/src',
-              'react-swipeable-views-utils': './packages/react-swipeable-views-utils/src',
+              '@gromy/react-swipeable-views': './packages/react-swipeable-views/src',
+              '@gromy/react-swipeable-views-core': './packages/react-swipeable-views-core/src',
+              '@gromy/react-swipeable-views-utils': './packages/react-swipeable-views-utils/src',
               docs: './docs',
               pages: './pages',
             },
@@ -149,9 +149,9 @@ module.exports = {
           {
             root: ['./'],
             alias: {
-              'react-swipeable-views': './packages/react-swipeable-views/src',
-              'react-swipeable-views-core': './packages/react-swipeable-views-core/src',
-              'react-swipeable-views-utils': './packages/react-swipeable-views-utils/src',
+              '@gromy/react-swipeable-views': './packages/react-swipeable-views/src',
+              '@gromy/react-swipeable-views-core': './packages/react-swipeable-views-core/src',
+              '@gromy/react-swipeable-views-utils': './packages/react-swipeable-views-utils/src',
               docs: './docs',
               pages: './pages',
             },

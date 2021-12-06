@@ -7,12 +7,12 @@ module.exports = {
   resolve: {
     modules: [path.join(__dirname, '../'), 'node_modules'],
     alias: {
-      'react-swipeable-views': path.resolve(__dirname, '../packages/react-swipeable-views/src'),
-      'react-swipeable-views-core': path.resolve(
+      '@gromy/react-swipeable-views': path.resolve(__dirname, '../packages/react-swipeable-views/src'),
+      '@gromy/react-swipeable-views-core': path.resolve(
         __dirname,
         '../packages/react-swipeable-views-core/src',
       ),
-      'react-swipeable-views-utils': path.resolve(
+      '@gromy/react-swipeable-views-utils': path.resolve(
         __dirname,
         '../packages/react-swipeable-views-utils/src',
       ),

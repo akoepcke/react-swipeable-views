@@ -1,6 +1,6 @@
 import React from 'react';
-import SwipeableViews from 'react-swipeable-views';
-import { bindKeyboard } from 'react-swipeable-views-utils';
+import SwipeableViews from '@gromy/react-swipeable-views';
+import { bindKeyboard } from '@gromy/react-swipeable-views-utils';
 
 const BindKeyboardSwipeableViews = bindKeyboard(SwipeableViews);
 

@@ -54,7 +54,7 @@ It's tiny (<10 kB gzipped), it quickly renders the first slide, then lazy-loads 
 
 ```jsx
 import React from 'react';
-import SwipeableViews from 'react-swipeable-views';
+import SwipeableViews from '@gromy/react-swipeable-views';
 
 const styles = {
   slide: {

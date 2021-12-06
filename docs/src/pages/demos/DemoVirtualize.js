@@ -2,9 +2,9 @@
 
 import React from 'react';
 import Button from '@material-ui/core/Button';
-import SwipeableViews from 'react-swipeable-views';
-import { virtualize, bindKeyboard } from 'react-swipeable-views-utils';
-import { mod } from 'react-swipeable-views-core';
+import SwipeableViews from '@gromy/react-swipeable-views';
+import { virtualize, bindKeyboard } from '@gromy/react-swipeable-views-utils';
+import { mod } from '@gromy/react-swipeable-views-core';
 
 const VirtualizeSwipeableViews = bindKeyboard(virtualize(SwipeableViews));
 

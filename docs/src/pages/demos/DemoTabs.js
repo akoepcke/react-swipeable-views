@@ -3,7 +3,7 @@ import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import MenuItem from '@material-ui/core/MenuItem';
 import Select from '@material-ui/core/Select';
-import SwipeableViews from 'react-swipeable-views';
+import SwipeableViews from '@gromy/react-swipeable-views';
 
 const styles = {
   tabs: {
